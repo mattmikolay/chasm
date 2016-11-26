@@ -1,0 +1,43 @@
+XXXXXXXXXXXX  XXXX    XXXX  XXXXXXXXXXXX  XXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXX  XXXX    XXXX  XXXXXXXXXXXX  XXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXX
+XXXX    XXXX  XXXX    XXXX  XXXX    XXXX  XXXX          XXXX    XXXX    XXXX
+XXXX          XXXXXXXXXXXX  XXXXXXXXXXXX  XXXXXXXXXXXX  XXXX    XXXX    XXXX
+XXXX          XXXXXXXXXXXX  XXXXXXXXXXXX  XXXXXXXXXXXX  XXXX    XXXX    XXXX
+XXXX    XXXX  XXXX    XXXX  XXXX    XXXX          XXXX  XXXX    XXXX    XXXX
+XXXXXXXXXXXX  XXXX    XXXX  XXXX    XXXX  XXXXXXXXXXXX  XXXX    XXXX    XXXX
+XXXXXXXXXXXX  XXXX    XXXX  XXXX    XXXX  XXXXXXXXXXXX  XXXX    XXXX    XXXX
+
+chasm
+Version 1.0
+Released publicly on January 1, 2011
+
+########About########
+chasm is copyright 2010 Matthew Mikolay
+
+chasm is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+chasm is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with chasm.  If not, see <http://www.gnu.org/licenses/>.
+
+########Compiling########
+chasm should be compiled using a standard C++ compiler. The GNU C++
+Compiler (G++) of the GNU Compiler Collection (GCC) is strongly
+recommended. chasm.cpp (the primary file) should be in the same
+directory as the header files when compiling.
+
+G++ Command Example:
+    g++ chasm.cpp -o chasm
+
+For more information on compiling, see the included manual.
+
+########Contact########
+chasm 1.0 was written by Matthew Mikolay
+mattmik.com
